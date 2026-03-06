@@ -1,9 +1,38 @@
+Joshua Benavides Portfolio
+Overview
 
-# Read these instructions before proceeding!
-1. Delete these instructions from your final version.
-2. This is the basic portfolio template. You are not required to use it. You may create your own repo instead. If you use a portfolio template from an external resource, credit it.
-3. Do not fork or clone this repo. Click the `Use this template` button to create your own repo. You may freely modify the repo you create.
-4. The basic repo is simply an outline in `index.html`. It is recommended that you modify it, using the outline as a checklist.
-5. This repo autodeploys to GitHub pages. To autodeploy, you must have enabled <b>Pages</b> in your GitHub account. You must also set <b>GitHub Actions</b> as your <b>Build and deployment Source</b> in the repo's <b>Settings -> Pages</b>. The deployed version will be at `your github account`.github.io/`your repo name`.
-6. You may optionally use CARL, STAR or other format to structure your reflections.
+This portfolio showcases the work completed by Me Joshua Benavides during the Multiverse Thrive Apprenticeship Program while working at Verizon. It highlights key projects, technical skills, and professional growth over the course of the apprenticeship.
 
+The portfolio includes:
+
+Full-stack and backend projects demonstrating HTML, CSS, JavaScript, React, Python, API integration, and deployment skills.
+
+Project screenshots, wireframes, and presentation recordings.
+
+Links to deployed applications and GitHub repositories.
+
+Features
+
+Inventory Application: A full-stack app with a responsive interface, showcasing React and JavaScript skills.
+
+Final Bootcamp Project: Command-line flight planner integrating external APIs.
+
+Back End Module Project: Backend services with CRUD routes, Auth0 authentication, Docker, and Render deployment.
+
+Front End Module Project: Responsive front-end application for the Yapper platform.
+
+Deployment Module Project: CI/CD deployment workflows with Render and GitHub Actions.
+
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: Python, Flask, Docker, Pytest
+
+Deployment: Render, GitHub Actions
+
+Other Tools: Tailwind CSS, Vite, Vitest, Auth0
+
+Contact
+
+Email: josbenavides358@gmail.com
